@@ -4,4 +4,5 @@ pip
 youtube_dl
 aria2
 colorlog
+websockets
 cffi --only-binary all; sys_platform == 'win32'
